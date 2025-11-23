@@ -130,7 +130,12 @@
   font-size: 2rem;
   font-weight: 500;
 }
-.jl-contact > .jl-contact__container > .jl-contact__c-top > .jl-contact__social {
+.jl-contact > .jl-contact__container > .jl-contact__c-top > .jl-contact__medias {
+  display: flex;
+  gap: 0.784rem;
+  align-items: center;
+}
+.jl-contact > .jl-contact__container > .jl-contact__c-top > .jl-contact__medias > .jl-contact__social {
   color: #a49f9f;
   display: block;
   width: 140px;
@@ -143,7 +148,7 @@
   text-decoration: none;
   letter-spacing: 20%;
 }
-.jl-contact > .jl-contact__container > .jl-contact__c-top > .jl-contact__social:hover {
+.jl-contact > .jl-contact__container > .jl-contact__c-top > .jl-contact__medias > .jl-contact__social:hover {
   cursor: pointer;
   border: 1px solid rgba(255,255,255,0.192);
   background-color: #181717;
