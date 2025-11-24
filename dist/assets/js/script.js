@@ -5,8 +5,7 @@
   links = [
     "https://soomoso.netlify.app/",
     "https://ncost.netlify.app/",
-    "https://m-linx.netlify.app/",
-    "https://m-mlink.netlify.app/"
+    "https://m-linx.netlify.app/"
   ];
 
   experiences = document.querySelectorAll('.jl-experience__project');
