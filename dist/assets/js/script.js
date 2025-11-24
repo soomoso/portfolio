@@ -4,7 +4,7 @@
 
   links = [
     "https://soomoso.netlify.app/",
-    "https://m-quantocusta.netlify.app/",
+    "https://ncost.netlify.app/",
     "https://m-linx.netlify.app/",
     "https://m-mlink.netlify.app/"
   ];
